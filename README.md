@@ -4,8 +4,8 @@
 Obsługa procesu odbioru paczek w skrzynkomacie. 
 
 ## Wiedza o działaniu biznesu
-https://www.youtube.com/watch?v=LqIF_pGI3wk&feature=emb_logo
 
+[Do obejrzenia](https://www.youtube.com/watch?v=LqIF_pGI3wk&feature=emb_logo)
 ### Krótki opis
 Paczka w skrzynkomacie dostępna jest do obioru w ciągu 48h
 - Kurier skanuje paczkę następnie umieszcza ją w skrzynkomacie
@@ -33,6 +33,5 @@ Kod może być udostępniony przez SMS, email, lub w aplikacji mobilnej.
 - HotSpot - różowa karteczka, która określa problem (wątpliwość)
 
 Projekt:
-https://miro.com/app/board/o9J_lVkc4VY=/
-
-Zrzut:
+[Miro Board](https://miro.com/app/board/o9J_lVkc4VY=/)
+[Snapshot](assets/big-picture-event-storming-parcel-locker.jpg)
