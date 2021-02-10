@@ -6,14 +6,16 @@ Obsługa procesu odbioru paczek w skrzynkomacie.
 ## Wiedza o działaniu biznesu
 https://www.youtube.com/watch?v=LqIF_pGI3wk&feature=emb_logo
 
+### Krótki opis
 Paczka w skrzynkomacie dostępna jest do obioru w ciągu 48h
-1. Klient odbiera paczkę za pomocą ekranu w skrzynkomacie. Wymagany jest numer telefonu oraz kod
-2. Klient odbiera paczkę za pomocą skanera QR w skrzynkomacie. Z maila bądź aplikacji wyświetlić na telefonie kod QR. Nie każdy skrzynkomat ma skaner
-3. Klient odbiera paczkę za pomocą aplikacji mobilnej. Musi mieć włączony GPS. Maksymalna odległość od skrzynkomatu to 15m. Jeżeli jest kilku klientów przy szkrzynkomacie i odbierają paczki. Wszystkie zlecenia otwarcia skrzynek się kolejkują nie otworzą się równlogle. Skrzynki co 5 sekund będą się otwierały w kolejności wysłania żądania otwarcia.
+1. Kurier skanuje paczkę następnie umieszcza ją w skrzynkomacie
+2.1. Klient odbiera paczkę za pomocą ekranu w skrzynkomacie. Wymagany jest numer telefonu oraz kod
+2.2. Klient odbiera paczkę za pomocą skanera QR w skrzynkomacie. Z maila bądź aplikacji wyświetlić na telefonie kod QR. Nie każdy skrzynkomat ma skaner
+2.3. Klient odbiera paczkę za pomocą aplikacji mobilnej. Musi mieć włączony GPS. Maksymalna odległość od skrzynkomatu to 15m. Jeżeli jest kilku klientów przy szkrzynkomacie i odbierają paczki. Wszystkie zlecenia otwarcia skrzynek się kolejkują nie otworzą się równlogle. Skrzynki co 5 sekund będą się otwierały w kolejności wysłania żądania otwarcia.
 Informacja rząd i kolumna jest znana. W aplikacji wyświetla się układ szkynkomatu wiadomo po której stronie szukać skrytki.
-4. Kurier skanuje paczkę następnie umieszcza ją w skrzynkomacie
-*Każdy może odebrać paczkę co zna kod i numer telefonu.
 
+### Dodatkowe informacje
+Każdy może odebrać paczkę co zna kod i numer telefonu.
 Kod może być udostępniony przez SMS, email, lub w aplikacji mobilnej.
 
 ## Domena
@@ -23,7 +25,6 @@ Kod może być udostępniony przez SMS, email, lub w aplikacji mobilnej.
 - Kurier - osoba umieszająca lub odbierająca paczkę w skrzynkomacie
 - Nadawca - osoba zlecająca wysyłkę paczki w skrzynkomacie
 - Klient - osoba, który odbiera paczkę w skrzynkomacie
-
 
 
 ## Model
